@@ -66,6 +66,13 @@
 * GitHub: https://github.com/YOUR_USERNAME
 * LinkedIn: ADD_LINKEDIN_LINK
 
+![Python](https://img.shields.io/badge/Python-blue)
+![NumPy](https://img.shields.io/badge/NumPy-orange)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=cyan&lines=Welcome+to+my+GitHub;Data+Science+Learner;Python+Developer)
+
+![Banner](https://media.giphy.com/media/.../giphy.gif)
+
 ---
 
 ⭐️ *Always learning, building, and improving every day.*
