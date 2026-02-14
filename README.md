@@ -60,8 +60,28 @@
 * GitHub: https://github.com/Kishansoni3739
 * Mail: kishansoni8403@gmail.com
 
-![Python](https://img.shields.io/badge/Python-blue)
-![NumPy](https://img.shields.io/badge/NumPy-orange)
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD5?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8B4513?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=cyan&lines=Welcome+to+my+GitHub;Data+Science+Learner;Python+Developer)
 
