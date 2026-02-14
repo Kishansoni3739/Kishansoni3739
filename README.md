@@ -41,7 +41,8 @@
 
 ## 🚀 GitHub Stats
 
-!![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishansoni3739&show_icons=true)
+[!![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kishansoni3739&show_icons=true
+)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishansoni3739\&layout=compact)
