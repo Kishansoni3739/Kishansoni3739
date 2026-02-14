@@ -1,12 +1,9 @@
-## Hi there 👋
-
 # 👋 Hi, I'm Kishan Soni
 
 📊 **Data Science Enthusiast | Python Developer | Django Full-Stack Developer**
 🚀 Passionate about **Data Analysis, Visualization, Automation & Web Development**
 
 ---
-
 ## 📊 Data Science Skills (Primary Focus)
 
 * Python for Data Analysis
@@ -17,17 +14,15 @@
 * Jupyter Notebook workflow
 
 ---
-
 ## 💻 Full-Stack Development Skills
 
 * Django (Python Full-Stack Web Development)
 * JavaScript
 * HTML / CSS
-* REST APIs & backend logic
+* Backend logic
 * Git & GitHub version control
 
 ---
-
 ## 🧰 Python Libraries I Use
 
 * NumPy
@@ -36,9 +31,8 @@
 * Seaborn
 * Requests (API handling & automation)
 * BeautifulSoup (Web scraping)
-
+  
 ---
-
 ## 🚀 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kishansoni3739&show_icons=true)
@@ -64,14 +58,12 @@
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Kishansoni3739
-* LinkedIn: ADD_LINKEDIN_LINK
+* Mail: kishansoni8403@gmail.com
 
 ![Python](https://img.shields.io/badge/Python-blue)
 ![NumPy](https://img.shields.io/badge/NumPy-orange)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=cyan&lines=Welcome+to+my+GitHub;Data+Science+Learner;Python+Developer)
-
-![Banner](https://media.giphy.com/media/DataScience/giphy.gif)
 
 ---
 
