@@ -63,7 +63,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
+* GitHub: https://github.com/Kishansoni3739
 * LinkedIn: ADD_LINKEDIN_LINK
 
 ![Python](https://img.shields.io/badge/Python-blue)
@@ -71,7 +71,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=cyan&lines=Welcome+to+my+GitHub;Data+Science+Learner;Python+Developer)
 
-![Banner](https://media.giphy.com/media/.../giphy.gif)
+![Banner](https://media.giphy.com/media/DataScience/giphy.gif)
 
 ---
 
