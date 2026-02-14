@@ -45,7 +45,8 @@
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishansoni3739\&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Kishansoni3739&layout=compact)
+
 
 ---
 
