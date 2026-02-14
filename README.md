@@ -41,7 +41,7 @@
 
 ## 🚀 GitHub Stats
 
-[!![GitHub stats]![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kishansoni3739&show_icons=true)
+[!GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Kishansoni3739&show_icons=true)
 
 
 
