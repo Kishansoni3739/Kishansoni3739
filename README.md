@@ -51,8 +51,6 @@
 * 🕸️ Web Scrapers using BeautifulSoup
 * 🌐 Django Full-Stack Web Applications
 
-*(Pin your best repositories on your profile)*
-
 ---
 
 ## 📫 Connect With Me
