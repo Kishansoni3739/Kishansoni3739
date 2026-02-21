@@ -11,7 +11,6 @@
 * Matplotlib & Seaborn for visualization
 * Exploratory Data Analysis (EDA)
 * Dataset cleaning & preprocessing
-* Jupyter Notebook workflow
 
 ---
 ## 💻 Full-Stack Development Skills
